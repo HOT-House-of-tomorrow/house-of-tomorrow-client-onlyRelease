@@ -6,12 +6,10 @@
 
 **[ Team HOT🔥 ]**
 
-- 박준형 **[Github](https://nodeca.github.io/pica/demo/)** - Front-end (Team leader)
-
-- 우현호 **[Github](https://github.com/nodeca/babelfish/)** -
-  Front-end
-- 차혜연 **[Github](https://github.com/nodeca/babelfish/)** - Back-end
-- 강민구 **[Github](https://github.com/nodeca/babelfish/)** - Back-end
+- 박준형 **[Github](https://github.com/NomadHash)** - Front-end (Team leader)
+- 우현호 **[Github](https://github.com/woo6794)** - Front-end
+- 차혜연 **[Github](https://github.com/HyeYeonCha)** - Back-end
+- 강민구 **[Github](https://github.com/min-gukang)** - Back-end
 
 ---
 
