@@ -15,7 +15,7 @@
 
 ### Wiki 📚
 
-[Github wiki](https://github.com/HOT-House-of-tomorrow/house-of-tomorrow-client/wiki).
+[Github wiki](https://github.com/HOT-House-of-tomorrow/house-of-tomorrow-client-onlyRelease/wiki).
 
 ---
 
